@@ -12,6 +12,7 @@ let timestamp = 4102329600000;//2099-12-31
 
 //节点链接 + 订阅链接
 let MainData = `
+https://sub.443888.xyz/vless
 https://sub.xf.free.hr/auto
 `
 
